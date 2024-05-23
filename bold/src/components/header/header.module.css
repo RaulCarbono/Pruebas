@@ -1,0 +1,7 @@
+.container {
+    margin: 0;
+    display: flex;
+    width: 100vw;
+    height: 8%;
+    background-color: aquamarine;
+}
